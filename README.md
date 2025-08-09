@@ -31,7 +31,7 @@ Joy-Con Control is a programme that let you use your joy-con from the first nint
 | `ZR/ZL`    | Center the mouse.|
 | `joystick` | Control mouse.|
 
-``NOTE:`` you can change or add command to button in the [Command.py]([https://www.python.org/downloads/](https://github.com/Wanous/Joy-Con_Control/blob/main/src/Command.py)) file.
+``NOTE:`` you can change or add command to button in the [Command.py](https://github.com/Wanous/Joy-Con_Control/blob/main/src/Command.py) file.
 
 ## About
 
