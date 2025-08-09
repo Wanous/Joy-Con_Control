@@ -13,6 +13,7 @@ class CommandHandler:
         self.mouse = MouseController()
         
         self.GYRO_SENSITIVITY = 0.05
+        self.STICK_SENSITIVITY = 30
         self.MOUSE_CLICK_TIME = 0.1
     
     def Treat_command(self, command):
@@ -62,7 +63,7 @@ class CommandHandler:
     
     def Move_Mouse_Stick(self, joystick:JoystickDirection):
             x, y = joystick.get_direction()
-            self.mouse.move(x * 15, -y * 15)
+            self.mouse.move(x * self.STICK_SENSITIVITY, -y * self.STICK_SENSITIVITY)
 
     def Center_Mouse(self):
         screen_width, screen_height = pyautogui.size()
