@@ -1,5 +1,5 @@
 # Joy-Con Control
-# ![Logo.png](photos/Logo.png)
+# ![Logo.png](photos/Banniere_JoyConControl.png)
 
 <div align=center>
   <img alt="Taille du code GitHub" src="https://img.shields.io/github/languages/code-size/Wanous/Joy-Con_Control?label=taille%20du%20code">
