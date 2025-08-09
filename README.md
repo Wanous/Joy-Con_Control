@@ -19,7 +19,7 @@ Joy-Con Control is a programme that let you use your joy-con from the first nint
 - Run the command `python main.py` to launch the program
 
 ## Controls
-<img alt="Joycon_map" align="right"  height="20%" width="20%" src="photos/joycon.png">
+<img alt="Joycon_image" align="right"  height="40%" width="40%" src="photos/joycon.png">
 
 | Button | Action |
 | ------ | ------ |
