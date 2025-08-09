@@ -15,6 +15,7 @@ Joy-Con Control is a programme that let you use your joy-con from the first nint
 - Download this repository using the download button
 - Open a terminal in the folder where you downloaded the repository
 - Run the command `python -m pip install -r requirements.txt` to install dependencies
+- Connect your Joy-Con to the PC
 - Run the command `python main.py` to launch the program
 
 ## Controls
@@ -30,7 +31,7 @@ Joy-Con Control is a programme that let you use your joy-con from the first nint
 | `ZR/ZL`    | Center the mouse.|
 | `joystick` | Control mouse.|
 
-``NOTE:`` you can change or add command to button in the [Command.py](https://www.python.org/downloads/) file.
+``NOTE:`` you can change or add command to button in the [Command.py]([https://www.python.org/downloads/](https://github.com/Wanous/Joy-Con_Control/blob/main/src/Command.py)) file.
 
 ## About
 
